@@ -1,0 +1,25 @@
+* {
+    display: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    margin: 0 5em;
+}
+
+.title {
+    text-align: center;
+    margin: 1em auto;
+}
+
+img {
+    display: block;
+    width: 300px;
+    height: auto;
+    text-align: center;
+    margin: 0 auto 25px auto;
+}
+
+hr {
+    border-color: red;
+}
